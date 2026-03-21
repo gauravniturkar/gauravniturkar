@@ -41,6 +41,11 @@ I'm open to opportunities where I can contribute my backend expertise while grow
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravniturkar&layout=compact&theme=dark)
 
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gaurav_Niturkar?theme=dark&font=baloo_2&ext=heatmap)
+
 </div>
+
 
 ---
