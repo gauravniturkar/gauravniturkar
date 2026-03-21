@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Backend Developer → Full-Stack Developer 🚀
+## Backend Developer → Full-Stack Developer
 
 </div>
 
@@ -22,7 +22,7 @@ I'm open to opportunities where I can contribute my backend expertise while grow
 
 <div align="center">
 
-## 🛠️ Languages-Frameworks-Tools 🛠️
+##  Languages-Frameworks-Tools
 
 <br>
 
@@ -35,13 +35,13 @@ I'm open to opportunities where I can contribute my backend expertise while grow
 
 <div align="center">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravniturkar&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravniturkar&layout=compact&theme=dark)
 
-## 🧩 LeetCode Stats
+##  LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Gaurav_Niturkar?theme=dark&font=baloo_2&ext=heatmap)
 
